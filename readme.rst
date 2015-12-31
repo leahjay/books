@@ -2,6 +2,8 @@
 ====
                                                                                     
 ===  ================================================   =======================     
+DEC  Ready Player One                                   Ernest Cline
+DEC  Harry Potter and the Half-Blood Prince             J.K. Rowling
 NOV  Armada                                             Ernest Cline
 OCT  Chasing Secrets                                    Gennifer Choldenko
 OCT  Howl's Moving Castle                               Diana Wynne Jones

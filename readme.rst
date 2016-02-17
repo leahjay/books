@@ -2,6 +2,7 @@
 ====
 
 ===  ==================================================  ========================
+FEB  The Red Sea Sharks                                  Herge
 FEB  Tintin and the Picaros                              Herge
 JAN  4:50 From Pattington                                Agatha Christie
 JAN  The Alchemyst: The Secrets of the Immortal          Michael Scott

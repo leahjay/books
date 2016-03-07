@@ -2,6 +2,7 @@
 ====
 
 ===  ==================================================  ========================
+MAR  Chomp                                               Carl Hiaasen
 FEB  The Westing Game                                    Ellen Raskin
 FEB  The Red Sea Sharks                                  Herge
 FEB  Tintin and the Picaros                              Herge

@@ -2,6 +2,7 @@
 ====
 
 ===  ==================================================  ========================
+MAR  Ruby Redfort Catch Your Death                       Lauren Child
 MAR  Dead End In Norvelt                                 Jack Gantos
 MAR  Chomp                                               Carl Hiaasen
 FEB  The Westing Game                                    Ellen Raskin

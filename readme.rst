@@ -2,9 +2,10 @@
 ====
 
 ===  ==================================================  ========================
+JUN  Rocket Boys                                         Homer H. Hickam, Jr.
 MAY  The Number Devil: A Mathematical Adventure          Hans Magnus Enzensberger
 APR  Jonny and the Dead                                  Terry Prachet
-APR  From Norvelt to NowDere                             Jack Gantos                   
+APR  From Norvelt to Nowhere                             Jack Gantos                   
 APR  No Summit Out of Sight                              Jordan Romero
 MAR  Ruby Redfort Catch Your Death                       Lauren Child
 MAR  Dead End In Norvelt                                 Jack Gantos
